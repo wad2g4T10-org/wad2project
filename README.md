@@ -1,4 +1,4 @@
-# wad2project
+# wad2project - main
 
 ## Project setup
 ```
